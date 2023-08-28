@@ -1,0 +1,34 @@
+﻿  HookCode.cpp
+G:\Script\VisualStudio\p2bhop\p2bhop\HookCode.cpp(13,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+G:\Script\VisualStudio\p2bhop\p2bhop\HookCode.cpp(13,14): error C2059: syntax error: '__asm'
+G:\Script\VisualStudio\p2bhop\p2bhop\HookCode.cpp(14,5): error C2143: syntax error: missing ';' before '{'
+G:\Script\VisualStudio\p2bhop\p2bhop\HookCode.cpp(15,9): error C2065: 'pushad': undeclared identifier
+G:\Script\VisualStudio\p2bhop\p2bhop\HookCode.cpp(16,9): error C2146: syntax error: missing ';' before identifier 'pushfd'
+G:\Script\VisualStudio\p2bhop\p2bhop\HookCode.cpp(16,9): error C2065: 'pushfd': undeclared identifier
+G:\Script\VisualStudio\p2bhop\p2bhop\HookCode.cpp(17,9): error C2146: syntax error: missing ';' before identifier 'mov'
+G:\Script\VisualStudio\p2bhop\p2bhop\HookCode.cpp(17,9): error C2065: 'mov': undeclared identifier
+G:\Script\VisualStudio\p2bhop\p2bhop\HookCode.cpp(17,13): error C2146: syntax error: missing ';' before identifier 'eax'
+G:\Script\VisualStudio\p2bhop\p2bhop\HookCode.cpp(17,13): error C2065: 'eax': undeclared identifier
+G:\Script\VisualStudio\p2bhop\p2bhop\HookCode.cpp(18,9): error C2146: syntax error: missing ';' before identifier 'cmp'
+G:\Script\VisualStudio\p2bhop\p2bhop\HookCode.cpp(18,9): error C2065: 'cmp': undeclared identifier
+G:\Script\VisualStudio\p2bhop\p2bhop\HookCode.cpp(18,13): error C2146: syntax error: missing ';' before identifier 'eax'
+G:\Script\VisualStudio\p2bhop\p2bhop\HookCode.cpp(18,13): error C2065: 'eax': undeclared identifier
+G:\Script\VisualStudio\p2bhop\p2bhop\HookCode.cpp(18,18): error C2065: 'ebx': undeclared identifier
+G:\Script\VisualStudio\p2bhop\p2bhop\HookCode.cpp(19,9): error C2146: syntax error: missing ';' before identifier 'jne'
+G:\Script\VisualStudio\p2bhop\p2bhop\HookCode.cpp(19,9): error C2065: 'jne': undeclared identifier
+G:\Script\VisualStudio\p2bhop\p2bhop\HookCode.cpp(19,13): error C2146: syntax error: missing ';' before identifier 'MODIFIED'
+G:\Script\VisualStudio\p2bhop\p2bhop\HookCode.cpp(19,13): error C2065: 'MODIFIED': undeclared identifier
+G:\Script\VisualStudio\p2bhop\p2bhop\HookCode.cpp(21,9): error C2146: syntax error: missing ';' before identifier 'mov'
+G:\Script\VisualStudio\p2bhop\p2bhop\HookCode.cpp(21,9): error C2065: 'mov': undeclared identifier
+G:\Script\VisualStudio\p2bhop\p2bhop\HookCode.cpp(21,13): error C2146: syntax error: missing ';' before identifier 'eax'
+G:\Script\VisualStudio\p2bhop\p2bhop\HookCode.cpp(21,13): error C2065: 'eax': undeclared identifier
+G:\Script\VisualStudio\p2bhop\p2bhop\HookCode.cpp(22,9): error C2146: syntax error: missing ';' before identifier 'mov'
+G:\Script\VisualStudio\p2bhop\p2bhop\HookCode.cpp(22,9): error C2065: 'mov': undeclared identifier
+G:\Script\VisualStudio\p2bhop\p2bhop\HookCode.cpp(22,13): error C2065: 'ebx': undeclared identifier
+G:\Script\VisualStudio\p2bhop\p2bhop\HookCode.cpp(22,26): error C2065: 'eax': undeclared identifier
+G:\Script\VisualStudio\p2bhop\p2bhop\HookCode.cpp(23,9): error C2146: syntax error: missing ';' before identifier 'movss'
+G:\Script\VisualStudio\p2bhop\p2bhop\HookCode.cpp(23,9): error C2065: 'movss': undeclared identifier
+G:\Script\VisualStudio\p2bhop\p2bhop\HookCode.cpp(23,15): error C2146: syntax error: missing ';' before identifier 'xmm0'
+G:\Script\VisualStudio\p2bhop\p2bhop\HookCode.cpp(23,15): error C2065: 'xmm0': undeclared identifier
+G:\Script\VisualStudio\p2bhop\p2bhop\HookCode.cpp(23,26): error C2760: syntax error: '+' was unexpected here; expected ','
+G:\Script\VisualStudio\p2bhop\p2bhop\HookCode.cpp(23,32): error C2059: syntax error: ']'

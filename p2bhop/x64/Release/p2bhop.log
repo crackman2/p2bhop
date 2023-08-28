@@ -1,0 +1,66 @@
+﻿  pch.cpp
+  CHookMaxSpeed.cpp
+G:\Script\VisualStudio\p2bhop\p2bhop\CHookMaxSpeed.cpp(17,18): warning C4311: 'type cast': pointer truncation from 'HMODULE' to 'uint32_t'
+G:\Script\VisualStudio\p2bhop\p2bhop\CHookMaxSpeed.cpp(17,18): warning C4302: 'type cast': truncation from 'HMODULE' to 'uint32_t'
+G:\Script\VisualStudio\p2bhop\p2bhop\CHookMaxSpeed.cpp(37,21): warning C4312: 'type cast': conversion from 'uint32_t' to 'LPVOID' of greater size
+G:\Script\VisualStudio\p2bhop\p2bhop\CHookMaxSpeed.cpp(41,5): warning C4311: 'reinterpret_cast': pointer truncation from 'void (__cdecl *)(void)' to 'uint32_t'
+G:\Script\VisualStudio\p2bhop\p2bhop\CHookMaxSpeed.cpp(41,5): warning C4302: 'reinterpret_cast': truncation from 'void (__cdecl *)(void)' to 'uint32_t'
+G:\Script\VisualStudio\p2bhop\p2bhop\CHookMaxSpeed.cpp(43,4): warning C4312: 'type cast': conversion from 'uint32_t' to 'uint8_t *' of greater size
+G:\Script\VisualStudio\p2bhop\p2bhop\CHookMaxSpeed.cpp(44,4): warning C4312: 'type cast': conversion from 'uint32_t' to 'uint8_t *' of greater size
+G:\Script\VisualStudio\p2bhop\p2bhop\CHookMaxSpeed.cpp(45,4): warning C4312: 'type cast': conversion from 'uint32_t' to 'uint8_t *' of greater size
+G:\Script\VisualStudio\p2bhop\p2bhop\CHookMaxSpeed.cpp(71,12): warning C4312: 'type cast': conversion from 'uint32_t' to 'uint8_t *' of greater size
+G:\Script\VisualStudio\p2bhop\p2bhop\CHookMaxSpeed.cpp(78,13): warning C4312: 'type cast': conversion from 'uint32_t' to 'uint8_t *' of greater size
+  CP2Player.cpp
+G:\Script\VisualStudio\p2bhop\p2bhop\CP2Player.cpp(28,11): warning C4312: 'type cast': conversion from 'uint32_t' to 'float *' of greater size
+G:\Script\VisualStudio\p2bhop\p2bhop\CP2Player.cpp(29,11): warning C4312: 'type cast': conversion from 'uint32_t' to 'float *' of greater size
+G:\Script\VisualStudio\p2bhop\p2bhop\CP2Player.cpp(30,11): warning C4312: 'type cast': conversion from 'uint32_t' to 'float *' of greater size
+G:\Script\VisualStudio\p2bhop\p2bhop\CP2Player.cpp(34,11): warning C4312: 'type cast': conversion from 'uint32_t' to 'float *' of greater size
+G:\Script\VisualStudio\p2bhop\p2bhop\CP2Player.cpp(35,11): warning C4312: 'type cast': conversion from 'uint32_t' to 'float *' of greater size
+G:\Script\VisualStudio\p2bhop\p2bhop\CP2Player.cpp(36,11): warning C4312: 'type cast': conversion from 'uint32_t' to 'float *' of greater size
+G:\Script\VisualStudio\p2bhop\p2bhop\CP2Player.cpp(41,14): warning C4312: 'type cast': conversion from 'uint32_t' to 'uint8_t *' of greater size
+G:\Script\VisualStudio\p2bhop\p2bhop\CP2Player.cpp(49,10): warning C4312: 'type cast': conversion from 'uint32_t' to 'uint16_t *' of greater size
+G:\Script\VisualStudio\p2bhop\p2bhop\CP2Player.cpp(50,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+G:\Script\VisualStudio\p2bhop\p2bhop\CP2Player.cpp(51,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+G:\Script\VisualStudio\p2bhop\p2bhop\CP2Player.cpp(81,33): warning C4312: 'type cast': conversion from 'uint32_t' to 'float *' of greater size
+G:\Script\VisualStudio\p2bhop\p2bhop\CP2Player.cpp(82,33): warning C4312: 'type cast': conversion from 'uint32_t' to 'float *' of greater size
+G:\Script\VisualStudio\p2bhop\p2bhop\CP2Player.cpp(83,33): warning C4312: 'type cast': conversion from 'uint32_t' to 'float *' of greater size
+G:\Script\VisualStudio\p2bhop\p2bhop\CP2Player.cpp(98,19): warning C4311: 'type cast': pointer truncation from 'HMODULE' to 'uint32_t'
+G:\Script\VisualStudio\p2bhop\p2bhop\CP2Player.cpp(98,19): warning C4302: 'type cast': truncation from 'HMODULE' to 'uint32_t'
+G:\Script\VisualStudio\p2bhop\p2bhop\CP2Player.cpp(100,20): warning C4311: 'type cast': pointer truncation from 'HMODULE' to 'uint32_t'
+G:\Script\VisualStudio\p2bhop\p2bhop\CP2Player.cpp(100,20): warning C4302: 'type cast': truncation from 'HMODULE' to 'uint32_t'
+G:\Script\VisualStudio\p2bhop\p2bhop\CP2Player.cpp(103,18): warning C4312: 'type cast': conversion from 'uint32_t' to 'LPVOID' of greater size
+G:\Script\VisualStudio\p2bhop\p2bhop\CP2Player.cpp(108,32): warning C4312: 'type cast': conversion from 'uint32_t' to 'void *' of greater size
+  dllmain.cpp
+  GlobalVars.cpp
+  HookCode.cpp
+G:\Script\VisualStudio\p2bhop\p2bhop\HookCode.cpp(13,5): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+G:\Script\VisualStudio\p2bhop\p2bhop\HookCode.cpp(15,9): error C2065: 'pushad': undeclared identifier
+G:\Script\VisualStudio\p2bhop\p2bhop\HookCode.cpp(16,9): error C2146: syntax error: missing ';' before identifier 'pushfd'
+G:\Script\VisualStudio\p2bhop\p2bhop\HookCode.cpp(16,9): error C2065: 'pushfd': undeclared identifier
+G:\Script\VisualStudio\p2bhop\p2bhop\HookCode.cpp(17,9): error C2146: syntax error: missing ';' before identifier 'mov'
+G:\Script\VisualStudio\p2bhop\p2bhop\HookCode.cpp(17,9): error C2065: 'mov': undeclared identifier
+G:\Script\VisualStudio\p2bhop\p2bhop\HookCode.cpp(17,13): error C2146: syntax error: missing ';' before identifier 'eax'
+G:\Script\VisualStudio\p2bhop\p2bhop\HookCode.cpp(17,13): error C2065: 'eax': undeclared identifier
+G:\Script\VisualStudio\p2bhop\p2bhop\HookCode.cpp(18,9): error C2146: syntax error: missing ';' before identifier 'cmp'
+G:\Script\VisualStudio\p2bhop\p2bhop\HookCode.cpp(18,9): error C2065: 'cmp': undeclared identifier
+G:\Script\VisualStudio\p2bhop\p2bhop\HookCode.cpp(18,13): error C2146: syntax error: missing ';' before identifier 'eax'
+G:\Script\VisualStudio\p2bhop\p2bhop\HookCode.cpp(18,13): error C2065: 'eax': undeclared identifier
+G:\Script\VisualStudio\p2bhop\p2bhop\HookCode.cpp(18,18): error C2065: 'ebx': undeclared identifier
+G:\Script\VisualStudio\p2bhop\p2bhop\HookCode.cpp(19,9): error C2146: syntax error: missing ';' before identifier 'jne'
+G:\Script\VisualStudio\p2bhop\p2bhop\HookCode.cpp(19,9): error C2065: 'jne': undeclared identifier
+G:\Script\VisualStudio\p2bhop\p2bhop\HookCode.cpp(19,13): error C2146: syntax error: missing ';' before identifier 'MODIFIED'
+G:\Script\VisualStudio\p2bhop\p2bhop\HookCode.cpp(19,13): error C2065: 'MODIFIED': undeclared identifier
+G:\Script\VisualStudio\p2bhop\p2bhop\HookCode.cpp(21,9): error C2146: syntax error: missing ';' before identifier 'mov'
+G:\Script\VisualStudio\p2bhop\p2bhop\HookCode.cpp(21,9): error C2065: 'mov': undeclared identifier
+G:\Script\VisualStudio\p2bhop\p2bhop\HookCode.cpp(21,13): error C2146: syntax error: missing ';' before identifier 'eax'
+G:\Script\VisualStudio\p2bhop\p2bhop\HookCode.cpp(21,13): error C2065: 'eax': undeclared identifier
+G:\Script\VisualStudio\p2bhop\p2bhop\HookCode.cpp(22,9): error C2146: syntax error: missing ';' before identifier 'mov'
+G:\Script\VisualStudio\p2bhop\p2bhop\HookCode.cpp(22,9): error C2065: 'mov': undeclared identifier
+G:\Script\VisualStudio\p2bhop\p2bhop\HookCode.cpp(22,13): error C2065: 'ebx': undeclared identifier
+G:\Script\VisualStudio\p2bhop\p2bhop\HookCode.cpp(22,26): error C2065: 'eax': undeclared identifier
+G:\Script\VisualStudio\p2bhop\p2bhop\HookCode.cpp(23,9): error C2146: syntax error: missing ';' before identifier 'movss'
+G:\Script\VisualStudio\p2bhop\p2bhop\HookCode.cpp(23,9): error C2065: 'movss': undeclared identifier
+G:\Script\VisualStudio\p2bhop\p2bhop\HookCode.cpp(23,15): error C2146: syntax error: missing ';' before identifier 'xmm0'
+G:\Script\VisualStudio\p2bhop\p2bhop\HookCode.cpp(23,15): error C2065: 'xmm0': undeclared identifier
+G:\Script\VisualStudio\p2bhop\p2bhop\HookCode.cpp(23,26): error C2760: syntax error: '+' was unexpected here; expected ','
+G:\Script\VisualStudio\p2bhop\p2bhop\HookCode.cpp(23,32): error C2059: syntax error: ']'

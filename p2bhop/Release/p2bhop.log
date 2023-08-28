@@ -1,0 +1,17 @@
+﻿  CP2Player.cpp
+G:\Script\VisualStudio\p2bhop\p2bhop\CP2Player.cpp(60,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+G:\Script\VisualStudio\p2bhop\p2bhop\CP2Player.cpp(61,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  GlobalObjects.cpp
+  MainF.cpp
+G:\Script\VisualStudio\p2bhop\p2bhop\MainF.cpp(117,78): warning C4244: 'return': conversion from '_Rep' to 'float', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+  OpenGLHook.cpp
+  Generating code
+  20 of 44 functions (45.5%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  p2bhop.vcxproj -> G:\Script\VisualStudio\p2bhop\Release\p2bhop.dll
